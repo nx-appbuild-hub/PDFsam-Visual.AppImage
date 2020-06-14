@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PDFsam Visual
+Exec=AppRun %U
+Terminal=false
+Type=Application
+Icon=pdfsam-visual
+StartupWMClass=pdfsam-visual
+Comment=Visually reorder pages, extract pages, delete pages, extract text, convert to grayscale, merge, split, rotate, crop, encrypt and decrypt PDF files.
+Categories=Office;
