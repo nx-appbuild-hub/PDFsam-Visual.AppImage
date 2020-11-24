@@ -26,4 +26,4 @@ export XDG_DATA_DIRS=${XDG_DATA_DIRS}
 
 cd ${OWD}
 
-exec ${APPDIR}/pdfsam/pdfsam-visual $@
+exec ${APPDIR}/pdfsam/pdfsam-visual "$@"
